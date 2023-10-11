@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "package:sprint3",
+    "appService.deploySubpath": "target/sprint3-0.0.1-SNAPSHOT.jar",
+    "appService.defaultWebAppToDeploy": "None"
+}
